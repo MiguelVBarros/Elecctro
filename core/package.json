@@ -1,0 +1,18 @@
+{
+  "name": "core",
+  "version": "1.0.0",
+  "description": "backend Node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Elecctro"
+  },
+  "author": "Miguel Barros",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^17.6.0"
+  }
+}
