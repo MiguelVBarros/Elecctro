@@ -1,0 +1,6 @@
+[submodule "core/catbox-memory"]
+	path = core/catbox-memory
+	url = https://github.com/hapijs/catbox-memory
+[submodule "core/catbox"]
+	path = core/catbox
+	url = https://github.com/hapijs/catbox
